@@ -1,0 +1,14 @@
+{
+  "name": "object-diff-3000",
+  "version": "1.0.0",
+  "description": "get the diff of two JSON objects, even deeply nested data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "author": "Luke Hovee",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.set": "^4.3.2"
+  }
+}
