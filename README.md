@@ -2,6 +2,21 @@
 
 Get the diff of two JSON objects, even deeply nested data structures.
 
+## Getting started
+
+install by
+
+```
+npm install object-diff-3000
+```
+
+import like
+
+```
+import { diff } from 'object-diff-300';
+
+```
+
 diff(obj1, obj2, config: optional): returns Promise<diff of the two objects>
 
 config options

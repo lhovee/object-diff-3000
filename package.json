@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "get the diff of two JSON objects, even deeply nested data structures",
   "main": "index.js",
+  "homepage": "https://github.com/lhovee/object-diff-3000",
+  "keywords": ["object", "JSON", "diff", "deeply", "nested"],
   "scripts": {
     "test": "node tests.js"
   },
