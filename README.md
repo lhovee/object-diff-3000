@@ -13,7 +13,7 @@ npm install object-diff-3000
 import like
 
 ```
-import { diff } from 'object-diff-300';
+import { diff } from 'object-diff-3000';
 
 ```
 
